@@ -44,9 +44,9 @@ Developed by: Nandhini M RegisterNumber: 24900996
 **RTL realization**
 ![Screenshot 2024-12-21 084855](https://github.com/user-attachments/assets/bfdb255e-79a0-4c0a-9a4e-8942d8a07798)
 
-**Output:**
-
 **RTL**
+
+**Output:**
 ![Screenshot 2024-12-21 084728](https://github.com/user-attachments/assets/eb0cce92-404e-4e44-a18b-ee2746690e97)
 
 **Result:**
